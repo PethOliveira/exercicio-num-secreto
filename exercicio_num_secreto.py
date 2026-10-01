@@ -29,5 +29,5 @@ while True:
         continue
 
     elif num_secreto == 22:
-        print('Parabéns você acertou o número secreto!')
+        print('Parabéns você acertou o número secreto 22!')
         break
